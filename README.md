@@ -1,9 +1,10 @@
 # Binary-Search-Tree-Projesi-Proje-3
 Binary Search Tree Projesi Proje 3
-                  4
 
-              /					\
-             1			 			7
+                  		4
+
+             		 /		\
+            		 1		7
             /	\				  /	  \
            0   2				5		  8
          /			       /         \	           
